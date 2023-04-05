@@ -1,0 +1,11 @@
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler-array/bin/Debug/net7.0/diziler-array
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler-array/bin/Debug/net7.0/diziler-array.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler-array/bin/Debug/net7.0/diziler-array.pdb
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler-array/obj/Debug/net7.0/diziler-array.csproj.AssemblyReference.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler-array/obj/Debug/net7.0/diziler-array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler-array/obj/Debug/net7.0/diziler-array.AssemblyInfoInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler-array/obj/Debug/net7.0/diziler-array.AssemblyInfo.cs
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler-array/obj/Debug/net7.0/diziler-array.csproj.CoreCompileInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler-array/obj/Debug/net7.0/diziler-array.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler-array/obj/Debug/net7.0/refint/diziler-array.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler-array/obj/Debug/net7.0/diziler-array.pdb
